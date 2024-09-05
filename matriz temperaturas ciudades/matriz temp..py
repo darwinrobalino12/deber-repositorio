@@ -126,3 +126,5 @@ for ciudad in temperaturas:
         for dia in semana:
             suma += dia['temp']
         print(suma)
+
+
