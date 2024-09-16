@@ -28,3 +28,5 @@ print(
     f"Para un monto total de ${monto_total_2:.2f} con un descuento del {porcentaje_descuento_2}%, el monto del descuento es ${descuento_2:.2f} y el monto final a pagar es ${monto_final_2:.2f}.")
 
 
+
+
