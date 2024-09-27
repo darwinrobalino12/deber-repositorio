@@ -21,3 +21,6 @@ informacion_personal.pop("edad", None)  # Usamos pop para eliminar, None previen
 
 # 6. Imprimir el diccionario resultante
 print(informacion_personal)
+
+
+
